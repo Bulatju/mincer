@@ -1,6 +1,6 @@
 {
   "name": "mincer",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Web assets processor. Native JavaScript port of Sprockets.",
   "keywords": [
     "sprockets",
@@ -24,7 +24,7 @@
     "argparse": "^1.0.2",
     "compressible": "^2.0.2",
     "hike": "^1.0.0",
-    "lodash": "4.17.19",
+    "lodash": "^4.17.21",
     "mimoza": "^1.0.0",
     "mkdirp": "^0.5.1",
     "pako": "^1.0.3",
@@ -36,19 +36,19 @@
     "coffee-script": "*",
     "connect": "*",
     "csso": "*",
-    "csswring": "6.0.3",
+    "csswring": "^7.0.0",
     "ejs": "*",
-    "eslint": "6.0.1",
+    "eslint": "^6.8.0",
     "jade": "*",
     "less": "*",
-    "mocha": "6.1.4",
-    "ndoc": "^5.0.1",
+    "mocha": "^10.2.0",
+    "ndoc": "^6.0.0",
     "node-sass": "*",
     "postcss": "*",
-    "pug": "^2.0.0-beta6",
+    "pug": "^3.0.2",
     "sinon": "^1.12.2",
     "stylus": "*",
     "supertest": "^4.0.2",
-    "uglify-js": "^2.0.0"
+    "uglify-js": "^3.17.4"
   }
 }

@@ -1,3 +1,13 @@
+2022-01-15
+------------------
+- bump lodash
+- bump csswring
+- bump eslint
+- bump mocha
+- bump ndoc
+- bump pug
+- bump uglify-js
+
 2021-03-21
 ------------------
 - Travis: update node version to 10
